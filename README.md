@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aqib Noor</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">🌟 Softwware Developer</h3>
 
 <p align="left"> <img src="https://raw.githubusercontent.com/priyan1995/priyan1995/master/readme-image.gif" alt="aqibnoor2007" /> </p>
 
