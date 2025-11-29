@@ -1,6 +1,5 @@
-{"id":"54123","variant":"standard","title":"Enhanced GitHub README for Aqib Noor"}
 <h1 align="center">Hi 👋, I'm Aqib Noor</h1>
-<h3 align="center">🌟 Passionate Frontend Developer from Pakistan</h3>
+<h3 align="center">🌟 Softwere Developer</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/priyan1995/priyan1995/master/readme-image.gif" alt="aqibnoor2007" width="400"/>
@@ -35,15 +34,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aqibnoor2007&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aqibnoor2007&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aqibnoor2007" alt="GitHub Streak" />
-</p>
 
 ---
 
